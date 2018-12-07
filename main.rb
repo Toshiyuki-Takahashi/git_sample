@@ -5,7 +5,7 @@ require "./tkase"
 require "./kurokawa"
 require "./Satoshi"
 
-kamizato = Kamizato.new("kamizato", 300, 200, 100, 15, 32, "male")
+kamizato = Kamizato.new("kamizato", 3000, 200, 100, 15, 32, "male")
 
 # ハッシュ：整数として扱われる
 # 順序関係なく引数を指定できる
